@@ -1,5 +1,3 @@
-Automated Databricks Lakeflow Declarative Pipeline with Medallion Architecture and Autoloader
-
 #  Automated Databricks Lakeflow Declarative Pipeline with Medallion Architecture and Autoloader
 
 This project implements a full **Medallion Architecture pipeline** on Databricks using **Delta Live Tables (DLT)**. It ingests raw sales CSV files, cleans and standardizes them, joins dimensions, and produces Gold-level business KPIs using materialized views — ready for dashboards and analytics.
