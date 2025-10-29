@@ -73,7 +73,7 @@ Provides business-level analytical views:
 
 ##  Repository Structure
 
-.
+```bash
 ├── Dataset/
 │   ├── customer.csv
 │   ├── fact_sales.csv
@@ -94,7 +94,7 @@ Provides business-level analytical views:
 │   └── silver_transformation.sql
 │
 └── README.md
-
+```
 
 
 ---
