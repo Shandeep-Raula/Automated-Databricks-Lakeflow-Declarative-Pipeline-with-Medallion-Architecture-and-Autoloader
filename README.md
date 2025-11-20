@@ -118,5 +118,3 @@ These materialized views can be directly connected to Power BI, Tableau, Excel, 
 - Region-wise top customers
 - Customer lifetime profitability ranking
 
----
-
